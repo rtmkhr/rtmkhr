@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rtmkhr
 - 👀 I’m interested in backend development, algorithms and machine learning
-- 🌱 I’m currently learning graphQL and Keras
+- 🌱 I’m currently learning graphQL, Keras, and generally computer science at Kyiv Polytechnic Institute
 - 📫 How to reach me artem.k@cybearsoft.com
 
 <!---
